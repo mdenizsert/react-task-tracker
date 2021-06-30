@@ -5,14 +5,12 @@
       "text": "Doctors Appointment",
       "day": "Feb 5",
       "reminder": true
-  },
-
-  {
-    "id": 2,
-    "text": "Meeting at School",
-    "day": "Feb 6th",
-    "reminder": true
-}
+    },
+    {
+      "text": "Take Test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 2
+    }
   ]
-  
 }
